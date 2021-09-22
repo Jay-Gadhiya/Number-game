@@ -1,5 +1,6 @@
 var number1 = Math.floor((Math.random() * 10) + 1);
 var number2 = Math.floor((Math.random() * 10) + 1);
+var x=0;
 
 document.getElementById('number1').innerHTML = number1;
 document.getElementById('number2').innerHTML = number2;
